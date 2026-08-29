@@ -1,6 +1,6 @@
 hello os7
 # 🖥️ OS7
-
+[GO PLAY GAME FREE GAME WINDOWS 7](https://github.com/neocitieshtmlcssjavascript-a11y/OS7/blob/main/game.md)
 > **OS7** is an atmospheric retro horror operating system simulator, developed from scratch in just **7 days**!
 
 The project is inspired by the aesthetics of old PCs, analog horror, and classic games like *OS95*. The player will delve into the interface of a mysterious old system and discover what lies hidden within its files.
@@ -19,20 +19,7 @@ The project is inspired by the aesthetics of old PCs, analog horror, and classic
 
 * **Platform:** Web / Browser version
 * **Where to play:** [Game page on Itch.io](https://sasha191261creates.itch.io/os7))
-* **Tools:** (You can enter your engine or technologies here, for example: *HTML5 / JavaScript / Construct / Unity*)
-
----
-
-## 📂 How to run (for developers)
-
-1. Clone the repository:
-```bash
-git clone https://github.com
-```
-2. Open the ` HTML` file in any modern browser.
-
----
-
+* **Tools:** (You can enter your engine or technologies here, for example: *MD / MD / MD / MD*)
 ## 📝 License and Attribution
 
 * **Author:** sasha191261creates
