@@ -1,7 +1,7 @@
 # 🖥️ OS7
 
 [GO PLAY GAME FREE GAME WINDOWS 7](https://github.com/neocitieshtmlcssjavascript-a11y/OS7/blob/main/game.md)
-> **OS7** is an atmospheric retro horror operating system simulator, developed from scratch in just **7 days**!
+> **OS7** is an atmospheric operating system simulator, developed from scratch in just **7 days**!
 
 The project is inspired by the aesthetics of old PCs, analog, and classic game *OS7*. The player will immerse themselves in the interface of a mysterious old system and discover what lies hidden within its files.
 
